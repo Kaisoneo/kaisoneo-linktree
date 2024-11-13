@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^legal-notice$ legal-notice.html [L]
