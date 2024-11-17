@@ -34,7 +34,7 @@ Join the KaisoVerse Discord Server to stay updated, get support, and connect wit
 
 ## 📜 Legal
 
-This project is protected under copyright law. Please refer to the [Legal Notice](legal-notice.html) for more information.
+This project is protected under copyright law. Please refer to the [Legal Notice](https://kaisoneo.netlify.app/legal-notice) for more information.
 
 ---
 
